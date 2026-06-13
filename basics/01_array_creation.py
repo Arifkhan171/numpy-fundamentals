@@ -34,4 +34,4 @@ print(x)
 
 x=np.random.randint(0,5,3) # creats b/w given range
 print(x)
-
+print(id(x))
